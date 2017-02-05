@@ -1,9 +1,3 @@
-package main
+<?php
 
-import(
-	"fmt"
-)
-
-func() main {
-ECHO　しごえみっっっt
-}
+echo phpinfo();
