@@ -1,7 +1,9 @@
-shigeomi
+package main
 
-takada
+import(
+	"fmt"
+)
 
-saori
+func() main {
 
-test
+}
